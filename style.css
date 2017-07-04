@@ -1,18 +1,16 @@
-p{
-    font-size: 14px;
-}
-body h2{
-    font-size: 16px;
-}
-.firsth2{
-color: red;
-}
-.firsth2 ~ h2{
-    color: blue;
+﻿h2 {
+    font-size: 18px;
+    font-family: "楷体";
+    text-shadow:#ccc 3px 3px 3px;
 }
 
-img:first-child{
-    width: 887px;
-    height: 439px;
+p {
+    font: 12px "Times New Roman" "宋体";
+	line-height:20px;
+   
 }
 
+p span {
+    font-weight: bold;
+    color: red;
+}
